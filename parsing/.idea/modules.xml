@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Qt/.idea/Qt.iml" filepath="$PROJECT_DIR$/../Qt/.idea/Qt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/parsing.iml" filepath="$PROJECT_DIR$/.idea/parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Проекты/Python/Олимпиадные_задачки/.idea/Олимпиадные_задачки.iml" filepath="$PROJECT_DIR$/../../../../Проекты/Python/Олимпиадные_задачки/.idea/Олимпиадные_задачки.iml" />
+    </modules>
+  </component>
+</project>
